@@ -1,6 +1,6 @@
 # Created by https://www.gitignore.io/api/agrant,linux,osx,intellij,vim
 
-#!! ERROR: agrant is undefined. Use list command to see defined gitignore types !!#
+.vagrant 
 
 ### Linux ###
 *~
