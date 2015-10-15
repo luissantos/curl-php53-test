@@ -2,7 +2,7 @@
 
 cd /home/vagrant
 
-ls epel-release-latest-5.noarch.rpm || wget -q https://dl.fedoraproject.org/pub/epel/epel-release-latest-5.noarch.rpm -o epel-release-latest-5.noarch.rpm
+ls epel-release-latest-5.noarch.rpm || wget -q https://dl.fedoraproject.org/pub/epel/epel-release-latest-5.noarch.rpm
 ls ius-release-1.0-14.ius.el5.noarch.rpm || wget -q http://dl.iuscommunity.org/pub/ius/stable/Redhat/5/x86_64/ius-release-1.0-14.ius.el5.noarch.rpm
 
 sudo rpm -i epel-release-latest-5.noarch.rpm
