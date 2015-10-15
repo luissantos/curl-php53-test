@@ -1,0 +1,12 @@
+{
+    "name": "logicnow/curl-verify-connection-pool",
+    "authors": [
+        {
+            "name": "Luis Santos",
+            "email": "luis.santos@logicnow.com"
+        }
+    ],
+    "require": {
+      "guzzlehttp/guzzle": "v3.8.1"
+    }
+}

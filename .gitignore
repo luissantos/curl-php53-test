@@ -1,5 +1,7 @@
 # Created by https://www.gitignore.io/api/agrant,linux,osx,intellij,vim
 
+vendor
+
 .vagrant 
 
 ### Linux ###
